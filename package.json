@@ -1,0 +1,21 @@
+{
+  "name": "hyrdositebs",
+  "version": "1.0.0",
+  "description": "This is a fictional website for a fictional Urban Farm.",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "4.5",
+    "jquery": "^3.6.3",
+    "popper.js": "^1.16.1"
+  }
+}
